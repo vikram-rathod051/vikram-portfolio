@@ -1,16 +1,76 @@
-# React + Vite
+# Vikram | Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern and responsive personal portfolio website showcasing my profile, skills, interests, and journey in Artificial Intelligence and Machine Learning.
 
-Currently, two official plugins are available:
+## About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Hi, I'm Vikram, an AI & Machine Learning student at East West Institute of Technology (EWIT), Bengaluru.
 
-## React Compiler
+I am passionate about Python, C programming, Generative AI, and exploring new technologies.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Skills
 
-## Expanding the Oxlint configuration
+- Python
+- C Programming
+- Generative AI
+- Git
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Technologies Used
+
+- React.js
+- JavaScript (JSX)
+- Vite
+- Tailwind CSS
+- Framer Motion
+- Lucide React
+
+## Features
+
+- Modern and responsive design
+- Personal introduction
+- Skills and interests section
+- Smooth animations
+- Contact section
+- Mobile-friendly layout
+
+## Run Locally
+
+1. Clone the repository:
+
+   ```bash
+   git clone YOUR_GITHUB_REPOSITORY_URL
+   ```
+
+2. Open the project folder:
+
+   ```bash
+   cd portfolio
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+## Future Improvements
+
+- Add personal projects
+- Improve website features
+- Add more skills and achievements
+
+## Author
+
+**Vikram**
+
+AI & Machine Learning Student
+
+---
+
+⭐ Thanks for visiting my portfolio repository!
